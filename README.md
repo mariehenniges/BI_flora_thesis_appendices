@@ -9,3 +9,4 @@ This repository contains additional apendices for my thesis that are more access
 
 **Supporting Table S2.4 CSR scores calculated using the method by Pierce *et al.*, 2017.** Columns describing taxon_name and kew_id correspond to BIFloraExplorer accessions, C_num, S_num and R_num describe the competitor, stress-tolerator and ruderal scores (out of 100), and predicted_CSR shows the final category the species is classed into, according to Grime's (1974) CSR strategies and as imputed with the method by Pierce *et al.*, 2017. Only species with full data coverage are included (1,441 species).
 
+**Supporting Method S2.1 Phylogenetic tree of BI species as TREE file.** 2,501 tips.
