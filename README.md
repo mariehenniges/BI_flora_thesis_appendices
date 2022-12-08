@@ -12,8 +12,6 @@ This repository contains additional apendices for my thesis that are more access
 **Supporting Method S2.1 Phylogenetic tree of BI species as TREE file.** 2,501 tips.
 
 ## Appendix 2 - Supporting information for Chapter 3
-
-### Frescalo output tables. (folder Frescalo output tables)
 Column headers are explained in detail under https://rdrr.io/github/BiologicalRecordsCentre/sparta/man/frescalo.html.
 Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraExplorer and https://powo.science.kew.org/.
 
@@ -41,7 +39,6 @@ Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraE
 **Supporting Table S3.4c Listing of rescaled species frequencies per hectad (2010-2019).**
 
 
-### Frescalo output maps.
 **Supporting Figure S3.1 Maps and regression graphs of Frescalo outputs across three date classes (1987-1999, 2000-2009, 2010-2019).** Page one shows summary statistics for the overall run (a, the raw species numbers from distribution records; b, the rescaled number of species following Frescalo correction; c and d show the the local scaling factor alpha with derived and specified breaks used for plotting). Each following page shows an overview of the results obtained for each species with sufficient data. This overview consists of graphs of the actual distribution of species, i.e. all hectads with records during any of the three date classes (a), estimated neighbourhood frequencies (b) and final adjusted species frequencies (c) as well as a plot illustrating the regression of time factors across the three date classes (d). 
 
 ## Appendix 3 - Supporting information for Chapter 4
