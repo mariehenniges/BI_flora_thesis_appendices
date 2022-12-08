@@ -19,17 +19,27 @@ Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraE
 
 **Supporting Table S3.1 Dataframe containing the results of linear regressions on time factors across three date classes (1987-1999, 2000-2009, 2010-2019).**
 
+
 **Supporting Table S3.2a Dataframe listing time factors calculated for each species (1987-1999).**
+
 **Supporting Table S3.2b Location report for each hectad (1987-1999).**
+
 **Supporting Table S3.2c Listing of rescaled species frequencies per hectad (1987-1999).**
 
+
 **Supporting Table S3.3a Dataframe listing time factors calculated for each species (2000-2009).**
+
 **Supporting Table S3.3b Location report for each hectad (2000-2009).**
+
 **Supporting Table S3.3c Listing of rescaled species frequencies per hectad (2000-2009).**
 
+
 **Supporting Table S3.3a Dataframe listing time factors calculated for each species (2010-2019).**
+
 **Supporting Table S3.3b Location report for each hectad (2010-2019).**
+
 **Supporting Table S3.3c Listing of rescaled species frequencies per hectad (2010-2019).**
+
 
 ### Frescalo output maps.
 **Supporting Figure S3.1 Maps and regression graphs of Frescalo outputs across three date classes (1987-1999, 2000-2009, 2010-2019).**
