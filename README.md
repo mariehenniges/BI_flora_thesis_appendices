@@ -56,6 +56,6 @@ Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraE
 
 **Supporting Method S4.2 Digitised Dudley Stamp map ArcGIS.** ArcGIS file containing the digitised version of the Dudley Stamp map.
 
-**Supporting Method S4.3 Hectad majority Dudley Stamp map.** Majority landcover in the 1930s according to the digitised Dudley Stamp map material. 
+**Supporting Method S4.3 Hectad majority Dudley Stamp map (shapefile).** Majority landcover in the 1930s according to the digitised Dudley Stamp map material. Saved as shapefile with styles layer.
 
 ## Appendix 4 - Supporting information for Chapter 5
