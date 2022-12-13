@@ -53,4 +53,3 @@ Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraE
 
 **Supporting Method S4.2 Phylogenetic tree of BI species AND cytotypes as TREE file.** Based on the phylogeny Supporting Method S2.1, cytotypes are attached as sister branches, increasing the phylogeny to 2,742 tips.
 
-## Appendix 4 - Supporting information for Chapter 5
