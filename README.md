@@ -49,8 +49,8 @@ Species are identified by their kew_id as per https://github.com/RBGKew/BIFloraE
 
 **Supporting Table S4.3 Full dataframe of modelling data.** Full dataset used for models in Chapter 4. Each hectad is identified by a national grid ID (hectad_ID) and by coordinates of its centroid (centroid_latdd, centroid_londd) and associated with information on weighted mean genome size and ploidy, mean annual rainfall and air temperature (tas) per growing season, total as well as wet and dry nitrogen deposition, majority land cover type (LC_type) and species numbers derived from Frescalo-based rescaling. Suffixes DC90s, DC00s and DC10s indicate which date class the data represents.
 
-**Supporting Method S4.1 Phylogenetic tree of BI species AND cytotypes as TREE file.** Based on the phylogeny Supporting Method S2.1, cytotypes are attached as sister branches, increasing the phylogeny to 2,742 tips.
+**Supporting Method S4.1 Hectad majority Dudley Stamp map (shapefile).** Majority landcover in the 1930s according to the digitised Dudley Stamp map material. Saved as shapefile with styles layer.
 
-**Supporting Method S4.2 Hectad majority Dudley Stamp map (shapefile).** Majority landcover in the 1930s according to the digitised Dudley Stamp map material. Saved as shapefile with styles layer.
+**Supporting Method S4.2 Phylogenetic tree of BI species AND cytotypes as TREE file.** Based on the phylogeny Supporting Method S2.1, cytotypes are attached as sister branches, increasing the phylogeny to 2,742 tips.
 
 ## Appendix 4 - Supporting information for Chapter 5
